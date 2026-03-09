@@ -13,7 +13,7 @@ const PRODUCTS = [
   },
   {
     id: 2, name: 'Staedtler Pensil Warna Noris Club (24)', cat: 'Pensil',
-    price: 89000, old: null, badge: 'sale',
+    price: 20000, old: null, badge: 'sale',
     img: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=500&q=80',
     desc: '24 warna cerah, isi tebal anti patah. Cocok untuk sekolah & hobi menggambar.',
     dt: new Date('2025-11-10')
