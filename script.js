@@ -6,14 +6,14 @@
 const PRODUCTS = [
   {
     id: 1, name: 'Faber-Castell Pensil 2B (12 pcs)', cat: 'Pensil',
-    price: 32000, old: 35000, badge: 'best',
+    price: 12000, old: 18000, badge: 'best',
     img: 'https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=500&q=80',
     desc: 'Pensil kayu grade 2B, ujung halus, tidak mudah patah. Cocok untuk menulis & menggambar.',
     dt: new Date('2025-12-01')
   },
   {
     id: 2, name: 'Staedtler Pensil Warna Noris Club (24)', cat: 'Pensil',
-    price: 89000, old: 99000, badge: 'sale',
+    price: 89000, old: null, badge: 'sale',
     img: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=500&q=80',
     desc: '24 warna cerah, isi tebal anti patah. Cocok untuk sekolah & hobi menggambar.',
     dt: new Date('2025-11-10')
