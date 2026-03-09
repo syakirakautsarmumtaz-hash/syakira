@@ -125,7 +125,7 @@ const PRODUCTS = [
   },
   {
     id: 18, name: 'Penghapus Faber-Castell Dust-Free (5 pcs)', cat: 'Pensil',
-    price: 22000, old: null, badge: 'new',
+    price: 2000, old: null, badge: 'new',
     img: 'https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?w=500&q=80',
     desc: 'Penghapus putih bersih tanpa residu, tidak merusak kertas. Isi 5 buah.',
     dt: new Date('2026-02-15')

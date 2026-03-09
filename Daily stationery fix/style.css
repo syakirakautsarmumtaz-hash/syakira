@@ -1154,3 +1154,4 @@ footer {
   .foot-grid     { grid-column: 1fr; gap: 2rem; }
   .toolbar       { flex-direction: column; align-items: flex-start; }
 }
+
